@@ -39,18 +39,18 @@ python tank_mini_game.py
 # Controls
 
 - Player 1 (Red Tank):
-- Move Left: A
-- Move Right: D
-- Move Up: W
-- Move Down: S
-- Fire: Left Ctrl
-
+-   Move Left: A
+-   Move Right: D
+-   Move Up: W
+-   Move Down: S
+-   Fire: Left Ctrl
+_______________________
 - Player 2 (Green Tank):
-- Move Left: Left Arrow
-- Move Right: Right Arrow
-- Move Up: Up Arrow
-- Move Down: Down Arrow
-- Fire: Right Ctrl
+-   Move Left: Left Arrow
+-   Move Right: Right Arrow
+-   Move Up: Up Arrow
+-   Move Down: Down Arrow
+-   Fire: Right Ctrl
 
 # Credits
 
